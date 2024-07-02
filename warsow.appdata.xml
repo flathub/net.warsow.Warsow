@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<component type="desktop">
+<component type="desktop-application">
   <id>warsow.desktop</id>
   <name>Warsow</name>
   <summary>Fast paced 3D first person shooter</summary>
@@ -11,6 +11,7 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0+ AND CC-BY-SA-4.0 AND CC-BY-ND-4.0</project_license>
   <developer_name>Chasseur de Bots</developer_name>
+  <launchable type="desktop-id">warsow.desktop</launchable>
   <url type="homepage">https://www.warsow.net/</url>
   <screenshots>
     <screenshot type="default">
